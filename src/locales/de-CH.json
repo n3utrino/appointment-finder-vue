@@ -1,0 +1,5 @@
+{
+  "choose_optimal_day": "Optimalen Tag wählen",
+  "zeitpunkt": "Heute | Morgen | In {n} Tagen",
+  "no_slots_available": "Keine optimalen Termine gefunden"
+}
