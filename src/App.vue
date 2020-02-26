@@ -17,7 +17,7 @@
                 </ul>
             </div>
             <div class="appointments__day">
-        <span class="appointments__day-header" v-t="'chose_optimal_time'">
+        <span class="appointments__day-header" v-t="'choose_optimal_time'">
         </span>
                 <ul class="appointments__slots">
                     <li
@@ -227,7 +227,7 @@
                     } else if (index == 0) {
                         text += " am ";
                     }
-                    text += days[index];
+                    text += days[day];
                 });
 
                 text += " finden";
